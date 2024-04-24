@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328227945485",
+    "project_id": "appgithubactions",
+    "storage_bucket": "appgithubactions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328227945485:android:bd72b57610e6379ece6944",
+        "android_client_info": {
+          "package_name": "br.com.claudio.appgithubactios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tB-Eh0eiBf5EREgbp37AST6CkzwFjDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
